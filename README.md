@@ -40,7 +40,7 @@ Tools Used
 
 
 
-\## Author
+Author
 
 Sinchana Naik
 
