@@ -2,13 +2,13 @@
 
 
 
-\## Overview
+ Overview
 
 This project analyzes Superstore sales data using Power BI.
 
 
 
-\## Key Metrics
+ Key Metrics
 
 \- Total Sales: 2.30M
 
@@ -18,7 +18,7 @@ This project analyzes Superstore sales data using Power BI.
 
 
 
-\## Visualizations
+Visualizations
 
 \- Sales Trend Analysis
 
@@ -32,7 +32,7 @@ This project analyzes Superstore sales data using Power BI.
 
 
 
-\## Tools Used
+Tools Used
 
 \- Power BI Desktop
 
